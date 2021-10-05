@@ -1,0 +1,14 @@
+
+.grid-container {
+    max-width: 1250px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    grid-gap: 1rem;
+}
+.plant-container {
+   background: #C7F9CC;
+    width: 200px;
+    height: 250px;
+    border-radius: 5px;
+}

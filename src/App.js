@@ -1,11 +1,16 @@
-import React from 'react'
+import React from "react";
+import NavBar from "./components/NavBar";
+import PlantsGrid from "./components/PlantsGrid";
+import SearchBar from "./components/SearchBar";
 
 const App = () => {
     return (
         <div>
-            <h1>Title</h1>
+            <NavBar />
+            <SearchBar />
+            <PlantsGrid />
         </div>
-    )
-}
+    );
+};
 
-export default App
+export default App;

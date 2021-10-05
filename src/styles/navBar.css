@@ -1,0 +1,26 @@
+.logo {
+    font-size: 37px;
+    color: #57CC99;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline;
+    font-size: 26px;
+    margin: 0.5rem;
+}
+
+.shopping-card {
+    color: #80ED99;
+    font-size: 3rem;
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 1250px;
+    align-items: center;
+    margin: 0 auto;
+}
+
+
