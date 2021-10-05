@@ -17,8 +17,7 @@ nav ul li {
 
 nav {
     display: flex;
-    justify-content: space-evenly;
-    max-width: 1250px;
+    justify-content: space-between;
     align-items: center;
     margin: 0 auto;
 }
